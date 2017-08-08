@@ -1,0 +1,40 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+header {
+    text-align: center;
+    color: red;
+}
+
+h2 {
+}
+
+img {
+    width: 50%;
+    height: 30em;
+}
+
+footer {
+    background-color: grey;
+    height: 10em;
+    width: 100%;
+}
+
+footer > p {
+    font-size: 2em;
+    text-align: center;
+    line-height: 5em;
+}
+
+#center {
+    text-align: center;
+    margin-right: 20em;
+    margin-left: 20em;
+}
